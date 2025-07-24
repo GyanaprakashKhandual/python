@@ -205,3 +205,4 @@ print("Number b is: ", b);
 print("Sum is: ", a+b);
 
 
+# To run the python code manually you have to run python your file name with .py in vs code terminal
