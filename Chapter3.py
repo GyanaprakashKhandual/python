@@ -86,3 +86,19 @@ print(msg.strip())  # Output: 'Hello'
 # Split the string into a list
 data = "apple,banana,grape"
 print(data.split(','))  # Output: ['apple', 'banana', 'grape']
+
+
+# Problem 1: Write python programme for user credentials
+
+name = input("Enter your name: ");
+
+print(f"Good Afternoon {name}");
+
+# Problem 2 : Use replace method in string and play a letter
+letter = '''
+Dear |<Name>|,
+You are selected,
+|<Date>|
+'''
+
+print(letter.replace('|<Name>|', 'Gyana prakash Khandual').replace('|<Date>|', 'June 24, 2025'));
