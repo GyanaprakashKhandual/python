@@ -89,3 +89,5 @@ print("Sum:", sum(nums))
 nested = [[1, 2], [3, 4], [5, 6]]
 print("\nNested list:", nested)
 print("Accessing nested item [1][0]:", nested[1][0])  # Output: 3
+
+
