@@ -76,10 +76,6 @@ for key in student:
 for key, value in student.items():
     print(f"{key}: {value}")
 
-# ------------------------ #
-#     NESTED DICTIONARY
-# ------------------------ #
-
 nested = {
     'person1': {'name': 'Alice', 'age': 25},
     'person2': {'name': 'Bob', 'age': 30}
